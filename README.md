@@ -1,6 +1,3 @@
-# Core Spring and Spring Boot Lab Projects
+This is a project provided by vMware (Spring.Academy) with boilerplate & to-do to learn spring & springBoot.
 
-Labs for the Core Spring and Spring Boot courses
-
-To import these labs into your IDE, import the parent pom `lab/pom.xml` as Maven projects or `lab/build.gradle` as Gradle projects.
-# Spring-Academy-Project
+I am just doing the to-do & trying to scratch the surface of spring & Spring Boot.
